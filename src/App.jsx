@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import Router from "./router/index";
-import { setAuthToken } from "./utils/axios";
+import { setAuthToken } from "./Utils/axios";
 
 function App() {
   useEffect(() => {
